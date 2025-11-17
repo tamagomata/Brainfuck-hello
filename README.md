@@ -51,4 +51,10 @@ Hello World!
 ```
 
 ## 使った変換ツール
-https://copy.sh/brainfuck/text.html
+1. [Copy.sh Brainfuck Text Generator](https://copy.sh/brainfuck/text.html)  
+   - 入力したテキストをBrainfuckコードに変換可能
+   - 逆にBrainfuckコードを実行してテキストを出力することもできる
+
+2. [dCode Brainfuck Interpreter](https://www.dcode.fr/brainfuck-language?utm_source=chatgpt.com)  
+   - Brainfuckコードを実行してテキストに変換できる
+   - テキストをBrainfuckに変換することも可能
